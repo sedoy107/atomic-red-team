@@ -1,3 +1,0 @@
-[submodule "invoke-atomicredteam"]
-	path = ./execution-frameworks/invoke-atomicredteam
-	url = https://github.com/redcanaryco/invoke-atomicredteam.git
